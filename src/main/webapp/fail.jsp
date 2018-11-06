@@ -5,5 +5,6 @@
 </head>
 <body>
 <h1>ERROR: Login failed!</h1>
+<h2>Wrong password!</h2>
 </body>
 </html>
